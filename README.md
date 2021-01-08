@@ -16,5 +16,5 @@
 ![Don2025's github stats](https://github-readme-stats.vercel.app/api/?username=Don2025&show_icons=true&hide_title=true&theme=radical)
 
 <a target="_blank" href="https://tanyaodan.com"><img align="right" src="6.jpg" height="260" width="500" /></a>
-### 🏆 Most Used Languages
+### 🙏 Von Neumann and Turing bless me please
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Don2025&langs_count=5)
