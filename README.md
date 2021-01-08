@@ -15,7 +15,6 @@
 ### 🎓 Github Stats
 ![Don2025's github stats](https://github-readme-stats.vercel.app/api/?username=Don2025&show_icons=true&hide_title=true&theme=radical)
 
-<a><img align="right" src="6.jpg" height="260" width="500" /></a>
-###                                                                              🙏 Von Neumann and Turing bless me please.
+<a title="Von Neumann and Turing bless me please."><img align="right" src="6.jpg" height="260" width="500" /></a>
 ### 🏆 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Don2025&langs_count=5)
