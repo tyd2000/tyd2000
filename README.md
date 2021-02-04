@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/-CSDN-ff0000?style=flat-square&logo=blogger&logoColor=white&link=https://tanyaodan.blog.csdn.net)](https://tanyaodan.blog.csdn.net)
 
 ### 🧑 About Me
-- 😎 I'm a Senior Undergraduate.
+- 😎 I'm a Senior.
 - ⚙️ I use daily: **C++**, **Bash**.
 - 💬 Languages: **C++**, **Python**, **PHP**.
 - 💜 Hobbies: **Soccer**, **Music**, **Iced Caffè Americano**.
