@@ -9,7 +9,7 @@
 ### 🧑 About Me
 - 😎 I'm a Senior.
 - ⚙️ I use daily: **C++**, **Bash**.
-- 💬 Languages: **C++**, **Python**, **PHP**.
+- 💬 Languages: **C++**, **Python**, **Go**.
 - 💜 Hobbies: **Soccer**, **Music**, **Iced Caffè Americano**.
 
 ### 🎓 Github Stats
