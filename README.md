@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-Github-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/Don2025)](https://github.com/Don2025)
 [![](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanyaodan@qq.com)](mailto:tanyaodan@qq.com)
 [![](https://img.shields.io/badge/-Steam-00587a?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/17773572025)](https://steamcommunity.com/id/17773572025)
-[![](https://img.shields.io/badge/-CSDN-ff0000?style=flat-square&logo=blogger&logoColor=white&link=https://tanyaodan.blog.csdn.net)](https://tanyaodan.blog.csdn.net)
+[![](https://img.shields.io/badge/-Jay%20Chou%20Records-ff0000?style=flat-square&logo=Ko-fi&logoColor=white&link=http://music.tanyaodan.com)](http://music.tanyaodan.com)
 
 ### 🧑 About Me
 - 😎 I'm a Graduate.
