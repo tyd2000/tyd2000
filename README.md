@@ -15,4 +15,5 @@
 ### 🎓 Github Stats
 ![Don2025's github stats](https://github-readme-stats.vercel.app/api/?username=Don2025&show_icons=true&hide_title=true&theme=radical)
 <a target="_blank" href="https://tanyaodan.com"><img align="right" src="https://paper.tanyaodan.com/img/bless.jpg" height="260" width="500" /></a>
+**Get busy living or get busy dying. That's goddamn right!**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Don2025&langs_count=5) 
