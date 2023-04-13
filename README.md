@@ -7,13 +7,12 @@
 [![](https://img.shields.io/badge/-Jay%20Chou%20Records-ff0000?style=flat-square&logo=Ko-fi&logoColor=white&link=http://music.tanyaodan.com)](http://music.tanyaodan.com)
 
 ### 🧑 About Me
-- 😎 I'm a Graduate.
+- 😎 I'm a postgraduate student.
 - ⚙️ I use daily: **C++**, **Go**.
 - 💬 Languages: **C++**, **Python**, **Go**.
 - 💜 Hobbies: **Soccer**, **Music**, **Iced Caffè Americano**.
-
+- 💦 **Get busy living or get busy dying. That's goddamn right!**
 ### 🎓 Github Stats
 ![Don2025's github stats](https://github-readme-stats.vercel.app/api/?username=Don2025&show_icons=true&hide_title=true&theme=radical)
 <a target="_blank" href="https://tanyaodan.com"><img align="right" src="https://paper.tanyaodan.com/img/bless.jpg" height="260" width="500" /></a>
-**Get busy living or get busy dying. That's goddamn right!**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Don2025&langs_count=5) 
