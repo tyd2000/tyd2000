@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/-Jay%20Chou%20Records-ff0000?style=flat-square&logo=Ko-fi&logoColor=white&link=http://music.tanyaodan.com)](http://music.tanyaodan.com)
 
 ### 🧑 About Me
-- 😎 I'm a postgraduate student.
+- 😎 M.S. in Cyber Security; B.E. in Computer Science.
 - ⚙️ I use daily: **C++**, **Go**.
 - 💬 Languages: **C++**, **Python**, **Go**.
 - 💜 Hobbies: **Soccer**, **Music**, **Iced Caffè Americano**.
